@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba 26-3</string>
+
+
+    <string name="boton">Grabar</string>
+    <string name="Text1">Nombre</string>
+    <string name="Text2">Precio</string>
+    <string name="LV">ListView</string>
+</resources>
